@@ -69,5 +69,3 @@ http://ESP_IP/status # Debug pins
 
 
 ***
-
-**Built with ❤️ for agricultural robotics!** 🚜🌿
